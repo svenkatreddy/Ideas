@@ -13,7 +13,7 @@ from there idea will become a real time product and tracked in its own page
 
 #### How to contribute
 
-1. clone this repo
+1. fork this repo
 2. create a new folder (with name) under level1 directory
 3. create README.md file with your idea
 4. send a pull request back to this repo
