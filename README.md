@@ -9,7 +9,7 @@ There would be four levels before someone get started working on it
 3. Level 3 : make document with Requirements, underlying technology, other services
 4. Level 4 : Complete product idea with timelines, github pages, contributors
 
-from there idea will become a real time product and tracked in its own page
+After that, idea will become a real time product and tracked in its own page
 
 #### How to contribute
 
